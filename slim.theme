@@ -16,7 +16,7 @@ background_color        #000000
 input_font          	Sans:size=10:bold:dpi=96
 input_fgcolor           #000000
 # panel location
-input_panel_x           50%
+input_panel_x           75%
 input_panel_y           50%
 input_name_x            52
 input_name_y            214
@@ -33,10 +33,3 @@ password_x              50
 password_y              190
 username_msg            Username:
 password_msg            Password:
-
-# welcome message
-#welcome_x              	50%
-#welcome_y              	22
-#welcome_font           	Sans:size=10:bold:dpi=96
-#welcome_color          	#000000
-
